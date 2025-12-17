@@ -59,4 +59,4 @@ Montrer qu'on a écouté et apprécié un morceau encourage plus de partages par
 ## Pub, croissance et monétisation  
 Comme dirait Bla-Bla, "beurk". L'ambition de GemDigger se limite à une petite communauté de gens relativement proches, et le seul profit est le plaisir de partager et de découvrir.  
   
-Ça ne veut pas dire qu'on n'ajoutera personne d'autre. Si vous connaissez des gens intéressés de nous rejoindre, on décidera des critères de sélection au fur et à mesure. Ce n'est juste pas un but en soi.  
+Ça ne veut pas dire qu'on n'ajoutera personne par la suite. Si vous connaissez des gens qui voudraient nous rejoindre, faites le savoir et on décidera des critères de sélection au fur et à mesure. Ce n'est juste pas un but en soi.  
