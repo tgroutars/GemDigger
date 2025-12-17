@@ -26,7 +26,7 @@ Certains choix ont été faits de manière délibérée pour y parvenir :
 - Une sélection concise et digeste, qu'on peut écouter en entier sans que ce soit une corvée  
   
 ## "Règles" de contribution  
-Une contributiom, c'est :  
+Une contribution, c'est :  
 - un morceau que vous voulez partager  
 - une courte (ou longue, je suis pas la police) explication de la raison de ce partage  
   
