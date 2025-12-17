@@ -20,7 +20,7 @@ GemDigger a 3 objectif :
 2. Créer ou renforcer des connexions entre ses membres  
 3. Rester en vie le plus longtemps possible  
   
-Certains choix ont été faits de manière délibérée y parvenir :  
+Certains choix ont été faits de manière délibérée pour y parvenir :  
 - Un nombre limité de membres approuvés  
 - Des posts réguliers mais espacés  
 - Une sélection concise et digeste, qu'on peut écouter en entier sans que ce soit une corvée  
