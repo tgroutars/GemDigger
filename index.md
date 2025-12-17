@@ -1,5 +1,5 @@
 # GemDigger  
-GemDigger est une* petite* communauté de gens qui veulent découvrir et partager de la musique qui les touche.  
+GemDigger est une *petite* communauté de gens qui veulent découvrir et partager de la musique qui les touche.  
   
 Toutes les semaines, je posterai un maximum de 5 morceaux proposés par la communauté, chacun accompagné d'un message de la personne qui l'a partagé. Toutes les contributions seront postées, mais en différé selon la taille de la liste d'attente.  
   
