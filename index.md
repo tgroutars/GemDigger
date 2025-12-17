@@ -12,7 +12,7 @@ En 2016, j'ai lancé un concept similaire, GemDigr (JeMeDigère pour les intimes
   
 À l'ère des algorithmes, et à un âge où je ne passe plus des heures sur des blogs et dans les profondeurs de SoundCloud, je veux privilégier la qualité et la dimension humaine du partage.   
   
-Ce genre de communautés, ça s'essouffle très facilement, mais je crois qu'on peut cadrer les choses pour éviter que ça n'arrive. J'ai peut-être tort. Le temps nous le dira.  
+Ce genre de communautés, ça s'essouffle très facilement, mais je crois qu'on peut cadrer les choses pour éviter que ça n'arrive. J'ai peut-être tort. Vous me le direz. Le temps nous le dira.  
   
 ## Le cadre  
 GemDigger a 3 objectif :  
@@ -45,7 +45,7 @@ Tout ce que je demande, c'est que le morceau ait un sens pour vous. Ce sens, vou
   
 Vous pouvez écrire cette raison en français ou en anglais. Choisissez ce qui vous permet au mieux de l'exprimer.  
   
-### Comment soumettre  
+### Comment contribuer  
 Envoyez-moi un lien Spotify et la raison du partage. Vous pouvez en envoyer autant que vous voulez, quand vous voulez. Je les ajouterai à la liste d'attente et les posterai dans les semaines suivantes.   
   
 ## Jouez le jeu  
