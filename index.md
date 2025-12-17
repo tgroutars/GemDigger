@@ -16,7 +16,7 @@ Ce genre de communautés, ça s'essouffle très facilement, mais je crois qu'on 
   
 ## Le cadre  
 GemDigger a 3 objectif :  
-1. Faire découvrir de musique qui a du sens  
+1. Faire découvrir de la musique qui a du sens  
 2. Créer ou renforcer des connexions entre ses membres  
 3. Rester en vie le plus longtemps possible  
   
